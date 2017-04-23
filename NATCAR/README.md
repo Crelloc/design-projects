@@ -1,6 +1,6 @@
 # Occam's Razor - NATCAR
 
-![alt text](/videos/occams-razor.gif)
+![alt text](/NATCAR/videos/occams-razor.gif)
 
 ## NATCAR - Autonomous Racecar
 Worked in groups of 3 to design, build, and test an autonomous race car. 
