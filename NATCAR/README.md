@@ -11,10 +11,14 @@ The objective of the course is to design and construct an autonomous race car th
 negotiate a preset course in the shortest possible time.
 
 ## SPECIFICATIONS
-**Processor  :** Freedom Kinetis KL25Z
-**Software   :** CodeWarrior
-**Interrupts**
-**Implemented:** ADC, PIT, PWM, SysTick
+* **Processor  :** Freedom Kinetis KL25Z
+* **Software   :** CodeWarrior
+* **Interrupts**
+* **Implemented:**
+*	ADC
+*	PIT
+*	PWM
+*	SysTick
 
 ## Awards
 **2014 Freescale Cup**
