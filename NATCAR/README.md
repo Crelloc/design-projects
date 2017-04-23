@@ -19,15 +19,15 @@ negotiate a preset course in the shortest possible time.
    * PWM
    * SysTick
 
-## Awards
+## AWARDS
 **2014 Freescale Cup**
 **1st place** in an intelligent car racing competition hosted by Freescale SEMI Co.
 * [Results](http://www.ece.ucdavis.edu/nxp/2014-race-results/)
 
-## Pictures
+## PICTURES
 
 ![picture alt](/NATCAR/images/natcar4.jpg)
 ![picture alt](/NATCAR/images/natcar3.jpg)
 ![picture alt](/NATCAR/images/natcar2.jpg)
-![picture alt](/NATCAR/images/natcar1.jpg)
+![picture alt](/NATCAR/images/natcar.jpg)
 ![picture alt](/NATCAR/images/natcar5.jpg)
