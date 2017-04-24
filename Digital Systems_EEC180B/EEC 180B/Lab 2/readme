@@ -1,5 +1,0 @@
-for lab2:
-
-    part1: add.v, Hto7.v
-    part2: FA.v, bit_adder.v
-    part3: MUBN.v, nbitFA.v, bit_adder.v, Hto7.v

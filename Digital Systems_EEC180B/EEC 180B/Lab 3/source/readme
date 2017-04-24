@@ -1,9 +1,0 @@
-Turner, Thomas
-
-Code for part1(RAM):
-	ram_single.v
-	RAMstate.v
-
-Code for part2(Booth's Multiplier Design ):
-	booth.v
-	Hto7.v
