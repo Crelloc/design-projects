@@ -31,3 +31,5 @@
 # Debug files
 *.dSYM/
 *.su
+
+*.rb linguist-language=Verilog
