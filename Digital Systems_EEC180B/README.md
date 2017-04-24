@@ -8,4 +8,5 @@
 * **Workstation:** RedHat Linux
 * **Software   :** Modelsim and Altera Quartus
 * **Language   :** Verilog
-* **FPGA       :** 
+* **FPGA       :** Altera DE2 Board
+
